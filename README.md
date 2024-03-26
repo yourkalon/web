@@ -1,2 +1,1 @@
-# web
-running web
+<title>Browser title</title>
