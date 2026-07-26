@@ -10,10 +10,10 @@
     var restHours = 2;                  
 
     // Adsterra Links
-    var newDirectLink = 'https://falconhoe.com/pynxydkcf?key=9fcaaab1932732baaffa3314295d33af';
-    var link1 = 'https://falconhoe.com/zcvm0rch?key=93b158ea491b4f11e0adbacd15934c67';
-    var link2 = 'https://falconhoe.com/pynxydkcf?key=9fcaaab1932732baaffa3314295d33af';
-    var link4 = 'https://falconhoe.com/zcvm0rch?key=93b158ea491b4f11e0adbacd15934c67';
+    var newDirectLink = 'https://t.co/Mfbedw1d3m';
+    var link1 = 'https://t.co/vKAnXbAoXM';
+    var link2 = 'https://t.co/Mfbedw1d3m';
+    var link4 = 'https://t.co/vKAnXbAoXM';
 
     // Competitor 
     var profitonSmartlink = 'https://falconhoe.com/n0p0pxanfp?key=f504717d727b01ed5ff62f49ad219714'; 
